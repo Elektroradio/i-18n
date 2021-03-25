@@ -1,0 +1,242 @@
+{
+    "info": {
+        "author": "Martin. B#2128 and Simson_suhl#8188",
+        "version": "1.0",
+        "name": "English"
+    },
+
+    "nopermissons": "To use the bot the bot needs Admin\nGuild: ",
+    
+    "time1": "Please wait",
+    "time2": "seconds",
+    "time3": "before reusing the",
+
+    "notime": "The time has expired.",
+    
+    "cmderror": "There was an error executing that command.",
+    "lock": "A admin locked the bot for this server",
+
+    "nopremium": {
+        "title": "No Premium ❌",
+        "description": " Sorry, you don`t have premium\n\n You can use the FreeBot! [Invite me](https://discord.com/oauth2/authorize?client_id=719941873459920917&scope=bot&permissions=104188993)\n\n[Buy Premium](https://www.patreon.com/elektroradio)"
+    },
+    
+    "testcmd": {
+        "suc": {
+            "title": "YES Premium ✅",
+            "description": "Your Guild is a Premium guild."
+        }
+    },
+    "stats":  {
+        "wait": "Wait",
+        "ram": ":thinking: RAM usage",
+        "cpu": "<:intel:795616768370540555> CPU usage",
+        "vs": ":floppy_disk: Version",
+        "user": ":notes: User:",
+        "ping": ":ping_pong:  Ping!",
+        "up": ":arrows_counterclockwise:  Uptime",
+        "server": ":desktop: Servers ",
+        "shard": "📡 Shard",
+        "ch": "<:live:792086974172758056> Channel"
+    },
+    "noperms": {
+        "title": "Error!",
+        "description": "You didnt have `Administrator` Permissions."
+    },
+    "standert": {
+        "normal": {
+            "title": "Set your Normal channel!",
+            "footer": "send the channel number now!"
+        },
+        "tobig": "This number is to Big!",
+        "mp3": "Please send me your MP3 Radio!",
+        "usemp3": "Please use an MP3 Stream!",
+        "ok": {
+             "title": "Succsesfuly",
+             "description": "When nothing is playing the bot join the channel and play your mp3 stream"
+        }
+    },
+    "setprefix": {
+        "title": "Set a new Prefix",
+        "description": "Send me your new Prefix",
+        "footer": "OR type 'cancel' to cancel ❌",
+        "cancel": "Canceld!",
+        "new": "The new Prefix is:"
+    },
+    "restnormal": {
+        "no": "You don`t have set a Normal channel!",
+        "del": "Normal channel was delete!"
+    },
+    "resetprefix": {
+        "embed": {
+            "title": "Reset our Prefix?",
+            "description": "If you want to confirm the prefix press ✅"
+        },
+        "suc": {
+            "title": "Successfuly ✅",
+            "description": "Your Prefix was reset successfuly to `>`",
+            "footer": "Type /setprefix to set your new prefix"
+        },
+        "err": {
+            "title": "Canceld ❌",
+            "description": "The prefix wasn`t reset",
+            "footer": "Type `prefix` to see your prefix"
+        }
+    },
+    "link": {
+        "title": "All info Links",
+        "description": "Website: http://elektroradiobot.xyz/\n\nWebsite Premium: https://premium.elektroradiobot.xyz/\n\nInvite Free: https://discord.com/oauth2/authorize?client_id=719941873459920917&scope=bot&permissions=104188993\n\nInvite Premium: https://discord.com/oauth2/authorize?client_id=705354179660742736&scope=bot&permissions=104188993\n\nBuy Premium: https://www.patreon.com/elektroradio\n\nVote: https://top.gg/bot/719941873459920917/vote",
+        "footer": "ElektroRadioBot.xyz"
+     },
+     "help": {
+        "site1": {
+          "title": "Welcome",
+          "description": "prixradio: <1 - 96>\nprixnormal: Set a voicechannel!\n\nHave you issu or the Bot is Offline then join our Support server:\nhttps://discord.gg/9QU4GaBNpa"
+        },
+        "site2": {
+            "title": "Music",
+            "description": "prixshuffle: Shuffel the Queue\nprixloop: loop the Queue\nprixvolume 0-200\nprixskipto: <number>\nprixskip: skip a song\nprixresume: Resume stop\nprixqueue: Whats in the Queue?\nprixpause: paused the Music\nprixfilter: <Filter>\nprixradio: 1 - 96\nprixplay: <Youtube Song>\nprixstop: Stop the Music\nprixstream: <mp3 stream>\nprixrandom: play an random Mp3\nprixnowplaying: Show your nowplaying audio"
+        },
+        "site3": {
+            "title": "Settings",
+            "description": "prixnormal: set a normal channel\nprixresetnormal: Reset the Normal channel\nprixsetprefix: set a new prefix\nprixprefix: shows you prefix\nresetprefix: resets your prefix"
+        },
+        "site4": {
+            "title": "Others",
+            "description": "prixstat: Shows the bot stats\nprixpremium: where i can buy Premium\nprixlink: Show you the info links\nprixping: PongðŸ\nprixuptime: Show the Uptime of the Bot!"
+        }
+    },
+    "color": {
+        "embed": {
+            "description": "🟡 Normal\n\n🔵 Blue\n\n🟠 Orange\n\n🟣 Purple\n\n🟤 Brown\n\n🖤 Black\n",
+            "title": "Change Embed Color"
+        },
+        "cancel": "Canceld!",
+        "title": "New embed COLOR",
+        "desc": "Your embed color has been successfully changed to "
+    },
+    "music": {
+        "volume": {
+            "not": "There is nothing playing!",
+            "embed": {
+                "title": "Volume is",
+                "footer": "volume 1 - 200"
+            },
+            "err": "That's not a Number between **0 & 200**",
+            "change": "🔊 Volume changed to:"
+        },
+        "stop": {
+            "joinfirst": "Please join a Voice Channel first",
+            "same": "You must be in the same Voice Channel as me",
+            "nothing": "There is nothing you can stop!",
+            "stop": "stopped the music!"
+        },
+        "skipto": {
+            "try": "Try:",
+            "use": "<Queue Number>",
+            "no": "There is no Queue",
+            "err": "The Queue is just",
+            "err2": "long!",
+            "skip": "skipped",
+            "song": "songs"
+        },
+        "skip": {
+            "no": "There is nothing you can skip!",
+            "skip": "skipped the song."  
+        },
+        "shuffle": {
+            "no": "There is no Queue",
+            "shuffled": "shuffled the Queue"
+        },
+        "resume": {
+           "no": "There is nothing playing!",
+           "resume": "resumed the music!",
+           "not": "The Queue is not paused"
+        },
+        "radio": {
+            "joinfirst": "Please join a Voice Channel first",
+            "me": "You must be in the same Voice Channel as me",
+            "err": "Not a valid radio station please use a Number between",
+            "search": "💢 Searching 🔍",
+            "add": "added to the Queue!",
+            "err2": "Could not join the channel:"
+        },
+        "queue": {
+            "no": "There is nothing playing!",
+            "title": "Music Queue"
+        },
+        "play": {
+            "joinfirst": "Please join a Voice Channel first",
+            "same": "You must be in the same Voice Channel as me",
+            "usage": "Usage",
+            "search": "💢 Searching 🔍",
+            "cmd": "<YouTube URL | Video Name | Soundcloud URL>",
+            "nosong": "This song dosent exist!",
+            "add": "Song add successfuly to the Queue",
+            "err2": "Could not join the channel:"
+        },
+        "pause": {
+            "nothing": "There is nothing playing",
+            "pause": "paused the music."
+        },
+        "nowplaying": {
+            "nothing": "There is nothing playing",
+            "embed": {
+               "title": "Nowplaying",
+               "description": "Your Guild have a own Nowplaying Website:\n" 
+            }
+        },
+        "loop": {
+            "nothing": "There is nothing playing", 
+            "loop": "Loop is now",
+            "enabled": "enabled",
+            "disabled": "disabled"
+        },
+        "import": {
+            "error": {
+                "title": "There is an Error!",
+                "description": "Please and 1 song first bevor you use the Queue import!"
+            },
+            "add": "added",
+            "song": "songs to the Queue!"
+        },
+        "filter": {
+            "err": "There is a search active!",
+            "joinfirst":"Please join a Voice Channel first",
+            "same":"You must be in the same Voice Channel as me",
+
+            "title": "Not a valid Filter, use one of those:"
+        }
+    },
+    "include": {
+        "main": {
+            "end": "Music Queue ended",
+            "error": "Error"
+        },
+        "queue": {
+            "title": "Music Queue"
+        },
+        "skip": {
+            "msg": "skipped the song!"
+        },
+        "volume": {
+            "msg": "🔊 Volume is:"
+        },
+        "pause": {
+            "pause": "paused the music.",
+            "resume": "resumed the music!"
+        },
+        "loop": {
+            "enabled": "enabled",
+            "disabled": "disabled",
+            "loop":"Loop is now"
+        },
+        "stop": {
+            "msg": "stopped the music!"
+        }
+    },
+    "lang": {
+        "title": "Please chose a Languge!",
+        "footer": "Your currently langue is"
+     }
+}

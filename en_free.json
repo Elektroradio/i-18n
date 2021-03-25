@@ -1,0 +1,165 @@
+{
+    "info": "English",
+    
+    "nopermissons": "To use the bot the bot needs Admin\nGuild: ",
+    
+    "time1": "Please wait",
+    "time2": "seconds",
+    "time3": "before reusing",
+
+    "notime": "The time has expired.",
+    
+    "cmderror": "There was an error executing that command.",
+
+    "werbung": {
+        "title": "<a:warning:791310739771228212>  Use ElektroRadio!  <a:warning:791310739771228212> ",
+         "description": "\n\n📡 `ElekroRadio - High Quallity Radio for your Discord!` 🔊\n\n\n> <:arrow:791311995827781652>  24/7 Uptime\n> <:arrow:791311995827781652> Good Support\n> <:arrow:791311995827781652> Easy to use\n> <:arrow:791311995827781652> High Quality\n> <:arrow:791311995827781652> Nice System"
+    },
+
+    "stats":  {
+        "wait": "Wait",
+        "ram": ":thinking: RAM usage",
+        "cpu": "<:intel:795616768370540555> CPU usage",
+        "vs": ":floppy_disk: Version",
+        "user": ":notes: User:",
+        "ping": ":ping_pong:  Ping!",
+        "up": ":arrows_counterclockwise:  Uptime",
+        "server": ":desktop: Servers ",
+        "shard": "📡 Shard",
+        "ch": "<:live:792086974172758056> Channel"
+    },
+
+    "setprefix": {
+        "title": "Set a new Prefix",
+        "description": "Send me your new Prefix",
+        "footer": "OR type 'cancel' to cancel ❌",
+        "cancel": "Canceld!"
+    },
+    "noperms": {
+        "title": "Error!",
+        "description": "You didnt have `Administrator` Permissions."
+    },
+    "nickname": {
+        "now": "Now my new Nickname: ",
+        "use": "Use"
+    },
+    "rmchannel": {
+        "use": "Use",
+        "set": "to set a reconnect channel.",
+        "title": "<a:error:790649508437819402> Remove"
+    },
+    "restprefix": {
+         "title": "Reset our Prefix?",
+         "description": "If you want to confirm the prefix press ✅",
+    
+         "suc": {
+             "title": "Successfuly ✅",
+             "description": "Your Prefix was reset successfuly to `/`",
+             "footer": "Type /setprefix to set your new prefix"
+         },
+         "cancel": {
+             "title": "Canceld ❌",
+             "description": "The prefix wasn`t reset",
+             "footer": "Type `prefix` to see your prefix"
+         }
+    },
+    "notify": {
+        "true": {
+          "title": "<a:error:790649508437819402> Notify",
+          "description": "Now you don`t become any server team message"
+        },
+        "false": {
+          "title": "<a:successful:790649377953546240> Notify",
+          "description": "Now you become a message when the bot have any update / news" 
+        },
+        "error": "This command is only for server owners!"
+    },
+    "link": {
+       "title": "All info Links",
+       "description": "Website: http://elektroradiobot.xyz/\n\nWebsite Premium: https://premium.elektroradiobot.xyz/\n\nInvite Free: https://discord.com/oauth2/authorize?client_id=719941873459920917&scope=bot&permissions=104188993\n\nInvite Premium: https://discord.com/oauth2/authorize?client_id=705354179660742736&scope=bot&permissions=104188993\n\nBuy Premium: https://www.patreon.com/elektroradio\n\nVote: https://top.gg/bot/719941873459920917/vote",
+       "footer": "ElektroRadioBot.xyz"
+    },
+    "help": {
+        "site1": {
+          "title": "Welcome",
+          "description": "prixradio: <1 - 96>\nprixsetchannel: Set a voicechannel!\n\nHave you issu or the Bot is Offline then join our Support server:\nhttps://discord.gg/9QU4GaBNpa"
+        },
+        "site2": {
+            "title": "Music",
+            "description": "prixlautfm: <Laut FM>\nprixradio: 1 - 96\nprixplay: <Youtube Song>\nprixstop: Stop the Music\nprixstream: <mp3 stream>\nprixrandom: play an random Mp3\nprixnowplaying: Show your nowplaying audio"
+        },
+        "site3": {
+            "title": "Settings",
+            "description": "prixsetprefix: set a new prefix\nprixprefix: shows you prefix\nprixresetprefix: resets your prefix\nprixsetchannel: set an reconnect channel\nprixrmchannel: remove the reconnect channel"
+        },
+        "site4": {
+            "title": "Others",
+            "description": "prixstat: Shows the bot stats\nprixpremium: where i can buy Premium\nprixlink: Show you the info links\nprixping: PongðŸ"
+        }
+    },
+    "setchannel": {
+        "use": "Use",
+        "err": "to remove the reconnect channel.",
+
+        "testmsg": {
+          "title": "Test Message",
+          "description": "This is a test message, to make sure that further messages gets sended."
+        }
+    },
+    "music": {
+      "stop": {
+         "stop": "stopped the music!",
+         "nothing": "Currently nothing is playing!",  
+         "joinfirst": "Please join a Voice Channel first"
+      },
+      "random": {
+         "joinfirst": "Please join a Voice Channel first",
+         "same": "You must be in the same Voice Channel as me",
+         "msg": "The Stream plays after the short message from our team 🎙️🔈",
+         "other": "Currently a other Radio is playing!"
+      },
+      "radio": {
+        "joinfirst": "Please join a Voice Channel first",
+        "same": "You must be in the same Voice Channel as me",
+        "play": "playing Radio",
+        "msg": "plays after the short message from our team 🎙️🔈",
+        "other": "Currently a other Radio is playing!"  
+      },
+      "play": {
+          "use": "Use",
+          "play": "<Youtube Song Name>",
+          "joinfirst": "Please join a Voice Channel first",
+          "convert": "<a:loading:790646888260567070> Now i convert the Spotify Song to a Youtube Song.",
+          "msg": "plays after the short message from our team 🎙️🔈",
+          "full": "Use the full music system with [premium](https:patreon.com/elektroradio)",
+          "err": "This song dosn`t exit!",
+          "other": "Currently a other Audio is playing!"
+      },
+      "nowplaying": {
+          "err": "Currently nothing is playing!",
+          "nowplaying": "Go to Nowplaying Page!"
+      },
+      "mp3": {
+        "use": "Use",
+        "usage": "<mp3 stream>",
+        "unkown": "Unkown stream link! Use a mp3 stream link",
+        "first": "Please join a Voice Channel first",
+        "suc": "Nowplaying a MP3 Stream",
+        "msg": "plays after the short message from our team 🎙️🔈",
+        "other": "Currently a other Radio is playing!"
+      },
+      "lautfm": {
+         "use": "Use",
+         "usage": "<LautFM stream>",
+         "err": "Unkown stream link! Use a Laut FM stream link",
+         "joinfirst": "Please join a Voice Channel first",
+         "msg": "plays after the short message from our team 🎙️🔈",
+         "suc": "Nowplaying a Laut FM Stream!",
+         "other": "Currently a other Radio is playing!"
+      }
+    },
+    "lang": {
+       "title": "Please chose a Languge!",
+       "footer": "Your currently langue is"
+    }
+}
