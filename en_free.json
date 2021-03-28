@@ -1,7 +1,7 @@
 {
     "info": "English",
     
-    "nopermissons": "To use the bot the bot needs Admin\nGuild: ",
+    "nopermissons": "To use the bot, it needs Admin\nGuild: ",
     
     "time1": "Please wait",
     "time2": "seconds",
@@ -9,11 +9,11 @@
 
     "notime": "The time has expired.",
     
-    "cmderror": "There was an error executing that command.",
+    "cmderror": "There was an error while executing this command.",
 
     "werbung": {
-        "title": "<a:warning:791310739771228212>  Use ElektroRadio!  <a:warning:791310739771228212> ",
-         "description": "\n\n📡 `ElekroRadio - High Quallity Radio for your Discord!` 🔊\n\n\n> <:arrow:791311995827781652>  24/7 Uptime\n> <:arrow:791311995827781652> Good Support\n> <:arrow:791311995827781652> Easy to use\n> <:arrow:791311995827781652> High Quality\n> <:arrow:791311995827781652> Nice System"
+        "title": "<a:warning:791310739771228212>  Use ElektroRadio.  <a:warning:791310739771228212> ",
+         "description": "\n\n📡 `ElekroRadio - A high quallity radio bot for your server.` 🔊\n\n\n> <:arrow:791311995827781652>  24/7 Uptime\n> <:arrow:791311995827781652> Support is always ready to help\n> <:arrow:791311995827781652> Easy to use\n> <:arrow:791311995827781652> High quality\n> <:arrow:791311995827781652> A perfect system"
     },
 
     "stats":  {
@@ -30,17 +30,17 @@
     },
 
     "setprefix": {
-        "title": "Set a new Prefix",
-        "description": "Send me your new Prefix",
+        "title": "Set a new prefix",
+        "description": "Type your new prefix",
         "footer": "OR type 'cancel' to cancel ❌",
-        "cancel": "Canceld!"
+        "cancel": "Cancelled."
     },
     "noperms": {
-        "title": "Error!",
-        "description": "You didnt have `Administrator` Permissions."
+        "title": "Error.",
+        "description": "You don't have `Administrator` Permissions."
     },
     "nickname": {
-        "now": "Now my new Nickname: ",
+        "now": "Now my new nickname is: ",
         "use": "Use"
     },
     "rmchannel": {
@@ -54,35 +54,35 @@
     
          "suc": {
              "title": "Successfuly ✅",
-             "description": "Your Prefix was reset successfuly to `/`",
+             "description": "Your prefix was reset successfully to `/`",
              "footer": "Type /setprefix to set your new prefix"
          },
          "cancel": {
-             "title": "Canceld ❌",
-             "description": "The prefix wasn`t reset",
+             "title": "Cancelled ❌",
+             "description": "The prefix wasn't reset",
              "footer": "Type `prefix` to see your prefix"
          }
     },
     "notify": {
         "true": {
           "title": "<a:error:790649508437819402> Notify",
-          "description": "Now you don`t become any server team message"
+          "description": "Now you don't get team messages from any server"
         },
         "false": {
           "title": "<a:successful:790649377953546240> Notify",
-          "description": "Now you become a message when the bot have any update / news" 
+          "description": "Now you get a message when the bot has any update / news" 
         },
-        "error": "This command is only for server owners!"
+        "error": "This command is only for server owners."
     },
     "link": {
-       "title": "All info Links",
+       "title": "All important links",
        "description": "Website: http://elektroradiobot.xyz/\n\nWebsite Premium: https://premium.elektroradiobot.xyz/\n\nInvite Free: https://discord.com/oauth2/authorize?client_id=719941873459920917&scope=bot&permissions=104188993\n\nInvite Premium: https://discord.com/oauth2/authorize?client_id=705354179660742736&scope=bot&permissions=104188993\n\nBuy Premium: https://www.patreon.com/elektroradio\n\nVote: https://top.gg/bot/719941873459920917/vote",
        "footer": "ElektroRadioBot.xyz"
     },
     "help": {
         "site1": {
           "title": "Welcome",
-          "description": "prixradio: <1 - 96>\nprixsetchannel: Set a voicechannel!\n\nHave you issu or the Bot is Offline then join our Support server:\nhttps://discord.gg/9QU4GaBNpa"
+          "description": "prixradio: <1 - 96>\nprixsetchannel: Set a voice channel.\n\nHave you an issue or the bot is offline? Join our support server:\nhttps://discord.gg/9QU4GaBNpa"
         },
         "site2": {
             "title": "Music",
@@ -90,11 +90,11 @@
         },
         "site3": {
             "title": "Settings",
-            "description": "prixsetprefix: set a new prefix\nprixprefix: shows you prefix\nprixresetprefix: resets your prefix\nprixsetchannel: set an reconnect channel\nprixrmchannel: remove the reconnect channel"
+            "description": "prixsetprefix: Set a new prefix\nprixprefix: Shows you prefix\nprixresetprefix: Resets your prefix\nprixsetchannel: Set a reconnect channel\nprixrmchannel: Remove the reconnect channel"
         },
         "site4": {
             "title": "Others",
-            "description": "prixstat: Shows the bot stats\nprixpremium: where i can buy Premium\nprixlink: Show you the info links\nprixping: PongðŸ"
+            "description": "prixstat: Shows the bot's stats\nprixpremium: Where can I buy Premium\nprixlink: Shows you the important links\nprixping: PongðŸ"
         }
     },
     "setchannel": {
@@ -102,64 +102,64 @@
         "err": "to remove the reconnect channel.",
 
         "testmsg": {
-          "title": "Test Message",
-          "description": "This is a test message, to make sure that further messages gets sended."
+          "title": "Test message",
+          "description": "This is a test message, it needs to make sure that further messages will get sent."
         }
     },
     "music": {
       "stop": {
-         "stop": "stopped the music!",
-         "nothing": "Currently nothing is playing!",  
-         "joinfirst": "Please join a Voice Channel first"
+         "stop": "Stopped the music.",
+         "nothing": "Currently nothing is playing.",  
+         "joinfirst": "Please join a voice channel."
       },
       "random": {
-         "joinfirst": "Please join a Voice Channel first",
-         "same": "You must be in the same Voice Channel as me",
-         "msg": "The Stream plays after the short message from our team 🎙️🔈",
-         "other": "Currently a other Radio is playing!"
+         "joinfirst": "Please join a voice channel.",
+         "same": "You should be in the same voice channel as me",
+         "msg": "The stream will play after the short message from our team 🎙️🔈",
+         "other": "Currently an other radio is playing."
       },
       "radio": {
-        "joinfirst": "Please join a Voice Channel first",
-        "same": "You must be in the same Voice Channel as me",
-        "play": "playing Radio",
-        "msg": "plays after the short message from our team 🎙️🔈",
-        "other": "Currently a other Radio is playing!"  
+        "joinfirst": "Please join a voice channel first",
+        "same": "You should be in the same voice channel as me",
+        "play": "Playing radio",
+        "msg": "will play after the short message from our team 🎙️🔈",
+        "other": "Currently an other radio is playing."  
       },
       "play": {
           "use": "Use",
           "play": "<Youtube Song Name>",
-          "joinfirst": "Please join a Voice Channel first",
-          "convert": "<a:loading:790646888260567070> Now i convert the Spotify Song to a Youtube Song.",
-          "msg": "plays after the short message from our team 🎙️🔈",
+          "joinfirst": "Please join a voice channel.",
+          "convert": "<a:loading:790646888260567070> Now I'll convert the Spotify song into a Youtube song.",
+          "msg": "will play after the short message from our team 🎙️🔈",
           "full": "Use the full music system with [premium](https:patreon.com/elektroradio)",
-          "err": "This song dosn`t exit!",
-          "other": "Currently a other Audio is playing!"
+          "err": "This song doesn't exist.",
+          "other": "Currently an other audio is playing."
       },
       "nowplaying": {
-          "err": "Currently nothing is playing!",
-          "nowplaying": "Go to Nowplaying Page!"
+          "err": "Currently nothing is playing.",
+          "nowplaying": "Go to Nowplaying Page."
       },
       "mp3": {
         "use": "Use",
         "usage": "<mp3 stream>",
-        "unkown": "Unkown stream link! Use a mp3 stream link",
-        "first": "Please join a Voice Channel first",
-        "suc": "Nowplaying a MP3 Stream",
-        "msg": "plays after the short message from our team 🎙️🔈",
-        "other": "Currently a other Radio is playing!"
+        "unkown": "Unknown stream link. Use an MP3 stream link",
+        "first": "Please join a voice channel first",
+        "suc": "Now is playing an MP3 stream",
+        "msg": "will play after the short message from our team 🎙️🔈",
+        "other": "Currently an other radio is playing."
       },
       "lautfm": {
          "use": "Use",
          "usage": "<LautFM stream>",
-         "err": "Unkown stream link! Use a Laut FM stream link",
-         "joinfirst": "Please join a Voice Channel first",
-         "msg": "plays after the short message from our team 🎙️🔈",
-         "suc": "Nowplaying a Laut FM Stream!",
-         "other": "Currently a other Radio is playing!"
+         "err": "Unkown stream link. Use a Laut FM stream link",
+         "joinfirst": "Please join a voice channel first",
+         "msg": "will play after the short message from our team 🎙️🔈",
+         "suc": "Now is playing a Laut FM stream.",
+         "other": "Currently an other radio is playing."
       }
     },
     "lang": {
-       "title": "Please chose a Languge!",
-       "footer": "Your currently langue is"
+       "title": "Please choose a language.",
+       "footer": "Your currently language is:"
     }
 }
