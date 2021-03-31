@@ -5,7 +5,7 @@
         "name": "English"
     },
 
-    "nopermissons": "To use the bot the bot needs Admin\nGuild: ",
+    "nopermissons": "To use the bot, it needs Admin\nGuild: ",
     
     "time1": "Please wait",
     "time2": "seconds",
@@ -13,18 +13,18 @@
 
     "notime": "The time has expired.",
     
-    "cmderror": "There was an error executing that command.",
-    "lock": "A admin locked the bot for this server",
+    "cmderror": "There was an error while executing this command.",
+    "lock": "An admin locked the bot for this server",
 
     "nopremium": {
-        "title": "No Premium ❌",
-        "description": " Sorry, you don`t have premium\n\n You can use the FreeBot! [Invite me](https://discord.com/oauth2/authorize?client_id=719941873459920917&scope=bot&permissions=104188993)\n\n[Buy Premium](https://www.patreon.com/elektroradio)"
+        "title": "No premium ❌",
+        "description": " Sorry, you don't have premium\n\n You can use the free version! [Invite me](https://discord.com/oauth2/authorize?client_id=719941873459920917&scope=bot&permissions=104188993)\n\n[Buy Premium](https://www.patreon.com/elektroradio)"
     },
     
     "testcmd": {
         "suc": {
-            "title": "YES Premium ✅",
-            "description": "Your Guild is a Premium guild."
+            "title": "You have premium ✅",
+            "description": "Your guild is a premium guild."
         }
     },
     "stats":  {
@@ -41,31 +41,31 @@
     },
     "noperms": {
         "title": "Error!",
-        "description": "You didnt have `Administrator` Permissions."
+        "description": "You don't have `Administrator` Permissions."
     },
     "standert": {
         "normal": {
-            "title": "Set your Normal channel!",
-            "footer": "send the channel number now!"
+            "title": "Set your usual channel.",
+            "footer": "send the channel number."
         },
-        "tobig": "This number is to Big!",
-        "mp3": "Please send me your MP3 Radio!",
-        "usemp3": "Please use an MP3 Stream!",
+        "tobig": "This number is too big.",
+        "mp3": "Please send me your MP3 radio.",
+        "usemp3": "Please use an MP3 stream.",
         "ok": {
-             "title": "Succsesfuly",
-             "description": "When nothing is playing the bot join the channel and play your mp3 stream"
+             "title": "Successfully",
+             "description": "When nothing is playing the bot joins the channel and plays your MP3 stream"
         }
     },
     "setprefix": {
-        "title": "Set a new Prefix",
-        "description": "Send me your new Prefix",
-        "footer": "OR type 'cancel' to cancel ❌",
-        "cancel": "Canceld!",
+        "title": "Set a new prefix",
+        "description": "Type your new prefix",
+        "footer": "Or type 'cancel' to cancel ❌",
+        "cancel": "Cancelled!",
         "new": "The new Prefix is:"
     },
     "restnormal": {
-        "no": "You don`t have set a Normal channel!",
-        "del": "Normal channel was delete!"
+        "no": "You haven't set an usual channel.",
+        "del": "Normal channel was deleted."
     },
     "resetprefix": {
         "embed": {
@@ -73,13 +73,13 @@
             "description": "If you want to confirm the prefix press ✅"
         },
         "suc": {
-            "title": "Successfuly ✅",
-            "description": "Your Prefix was reset successfuly to `>`",
+            "title": "Successfully ✅",
+            "description": "Your prefix was reset successfuly to `>`",
             "footer": "Type /setprefix to set your new prefix"
         },
         "err": {
-            "title": "Canceld ❌",
-            "description": "The prefix wasn`t reset",
+            "title": "Cancelled ❌",
+            "description": "The prefix wasn't reset",
             "footer": "Type `prefix` to see your prefix"
         }
     },
@@ -91,19 +91,19 @@
      "help": {
         "site1": {
           "title": "Welcome",
-          "description": "prixradio: <1 - 96>\nprixnormal: Set a voicechannel!\n\nHave you issu or the Bot is Offline then join our Support server:\nhttps://discord.gg/9QU4GaBNpa"
+          "description": "prixradio: <1 - 96>\nprixnormal: Set a voice channel.\n\nHave you an issue or the Bot is offline? Join our support server:\nhttps://discord.gg/9QU4GaBNpa"
         },
         "site2": {
             "title": "Music",
-            "description": "prixshuffle: Shuffel the Queue\nprixloop: loop the Queue\nprixvolume 0-200\nprixskipto: <number>\nprixskip: skip a song\nprixresume: Resume stop\nprixqueue: Whats in the Queue?\nprixpause: paused the Music\nprixfilter: <Filter>\nprixradio: 1 - 96\nprixplay: <Youtube Song>\nprixstop: Stop the Music\nprixstream: <mp3 stream>\nprixrandom: play an random Mp3\nprixnowplaying: Show your nowplaying audio"
+            "description": "prixshuffle: Shuffle the queue\nprixloop: loop the Queue\nprixvolume 0-200\nprixskipto: <number>\nprixskip: skip a song\nprixresume: Resume stop\nprixqueue: What's in the Queue?\nprixpause: paused the Music\nprixfilter: <Filter>\nprixradio: 1 - 96\nprixplay: <Youtube Song>\nprixstop: Stop the music\nprixstream: <mp3 stream>\nprixrandom: play a random Mp3\nprixnowplaying: Show your audio that's playing now."
         },
         "site3": {
             "title": "Settings",
-            "description": "prixnormal: set a normal channel\nprixresetnormal: Reset the Normal channel\nprixsetprefix: set a new prefix\nprixprefix: shows you prefix\nresetprefix: resets your prefix"
+            "description": "prixnormal: set an usual channel\nprixresetnormal: Reset the usual channel\nprixsetprefix: set a new prefix\nprixprefix: shows you prefix\nresetprefix: resets your prefix"
         },
         "site4": {
             "title": "Others",
-            "description": "prixstat: Shows the bot stats\nprixpremium: where i can buy Premium\nprixlink: Show you the info links\nprixping: PongðŸ\nprixuptime: Show the Uptime of the Bot!"
+            "description": "prixstat: Shows the bot stats\nprixpremium: Where can I buy Premium?\nprixlink: Shows you the info links\nprixping: PongðŸ\nprixuptime: Shows bot's uptime."
         }
     },
     "color": {
@@ -117,7 +117,7 @@
     },
     "music": {
         "volume": {
-            "not": "There is nothing playing!",
+            "not": "There is nothing playing.",
             "embed": {
                 "title": "Volume is",
                 "footer": "volume 1 - 200"
@@ -126,53 +126,53 @@
             "change": "🔊 Volume changed to:"
         },
         "stop": {
-            "joinfirst": "Please join a Voice Channel first",
-            "same": "You must be in the same Voice Channel as me",
-            "nothing": "There is nothing you can stop!",
-            "stop": "stopped the music!"
+            "joinfirst": "Please join a voice channel first",
+            "same": "You must be in the same voice channel as me",
+            "nothing": "There is nothing you can stop.",
+            "stop": "stopped the music."
         },
         "skipto": {
             "try": "Try:",
             "use": "<Queue Number>",
-            "no": "There is no Queue",
+            "no": "There is no queue",
             "err": "The Queue is just",
-            "err2": "long!",
+            "err2": "long.",
             "skip": "skipped",
             "song": "songs"
         },
         "skip": {
-            "no": "There is nothing you can skip!",
+            "no": "There is nothing you can skip.",
             "skip": "skipped the song."  
         },
         "shuffle": {
-            "no": "There is no Queue",
-            "shuffled": "shuffled the Queue"
+            "no": "There is no queue",
+            "shuffled": "shuffled the queue"
         },
         "resume": {
-           "no": "There is nothing playing!",
-           "resume": "resumed the music!",
-           "not": "The Queue is not paused"
+           "no": "There is nothing playing.",
+           "resume": "resumed the music.,
+           "not": "The queue is not paused"
         },
         "radio": {
-            "joinfirst": "Please join a Voice Channel first",
-            "me": "You must be in the same Voice Channel as me",
-            "err": "Not a valid radio station please use a Number between",
+            "joinfirst": "Please join a voice channel first",
+            "me": "You must be in the same voice channel as me",
+            "err": "Not a valid radio station, please use a number between",
             "search": "💢 Searching 🔍",
-            "add": "added to the Queue!",
+            "add": "added to the queue.",
             "err2": "Could not join the channel:"
         },
         "queue": {
-            "no": "There is nothing playing!",
-            "title": "Music Queue"
+            "no": "There is nothing playing.",
+            "title": "Music queue"
         },
         "play": {
-            "joinfirst": "Please join a Voice Channel first",
-            "same": "You must be in the same Voice Channel as me",
+            "joinfirst": "Please join a voice channel first",
+            "same": "You must be in the same voice channel as me",
             "usage": "Usage",
             "search": "💢 Searching 🔍",
             "cmd": "<YouTube URL | Video Name | Soundcloud URL>",
-            "nosong": "This song dosent exist!",
-            "add": "Song add successfuly to the Queue",
+            "nosong": "This song doesn't exist.",
+            "add": "Song successfully added to the queue",
             "err2": "Could not join the channel:"
         },
         "pause": {
@@ -182,49 +182,49 @@
         "nowplaying": {
             "nothing": "There is nothing playing",
             "embed": {
-               "title": "Nowplaying",
-               "description": "Your Guild have a own Nowplaying Website:\n" 
+               "title": "Now playing",
+               "description": "Your Guild has an own Nowplaying Website:\n" 
             }
         },
         "loop": {
             "nothing": "There is nothing playing", 
-            "loop": "Loop is now",
+            "loop": "Loop is on",
             "enabled": "enabled",
             "disabled": "disabled"
         },
         "import": {
             "error": {
-                "title": "There is an Error!",
-                "description": "Please and 1 song first bevor you use the Queue import!"
+                "title": "There was an error.",
+                "description": "Please and 1 song first before you use the queue import."
             },
             "add": "added",
-            "song": "songs to the Queue!"
+            "song": "songs to the queue."
         },
         "filter": {
-            "err": "There is a search active!",
-            "joinfirst":"Please join a Voice Channel first",
-            "same":"You must be in the same Voice Channel as me",
+            "err": "There is a search active.",
+            "joinfirst": "Please join a voice channel first",
+            "same": "You must be in the same voice channel as me",
 
-            "title": "Not a valid Filter, use one of those:"
+            "title": "Not a valid filter, use one of those:"
         }
     },
     "include": {
         "main": {
-            "end": "Music Queue ended",
+            "end": "Music queue ended",
             "error": "Error"
         },
         "queue": {
-            "title": "Music Queue"
+            "title": "Music queue"
         },
         "skip": {
-            "msg": "skipped the song!"
+            "msg": "skipped the song."
         },
         "volume": {
             "msg": "🔊 Volume is:"
         },
         "pause": {
             "pause": "paused the music.",
-            "resume": "resumed the music!"
+            "resume": "resumed the music."
         },
         "loop": {
             "enabled": "enabled",
@@ -232,11 +232,11 @@
             "loop":"Loop is now"
         },
         "stop": {
-            "msg": "stopped the music!"
+            "msg": "stopped the music."
         }
     },
     "lang": {
-        "title": "Please chose a Languge!",
-        "footer": "Your currently langue is"
+        "title": "Please choose a language.",
+        "footer": "Your currently language is:"
      }
 }
